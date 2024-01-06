@@ -1,0 +1,15 @@
+Accent speech synthesizer is a high quality text-to-speech
+convertor.  It converts ordinary ASCII text into intelligible speech. 
+Accent's unlimited vocabulary capability, plus its many feature
+options, comprise a useful voice-output device for various
+applications.
+
+To cover a wide range of the system configurations, cost
+requirements, and environmental requirements, six different
+Accent models are available to the user.  These six models are:
+Accent-PC for PC plug-in; Accent-MC for IBM microchannel PS/2
+plug in; Accent-SA for stand-alone operation; Accent-mini for PC
+plug-in; Accent-1600 for Toshiba laptop models T1100-plus, T1200,
+T1600, T3100SX, and Toshiba portable models T3100-20, T3100E,
+T5100, and T5200; and Accent-XE for Toshiba laptop model
+T1000SE.

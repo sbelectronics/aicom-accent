@@ -16,5 +16,6 @@ copy:
 	sudo umount /mnt/dos || true
 	sudo umount /mnt/dos || true
 	sudo mount -o uid=1026 /dev/sdc1 /mnt/dos
-	cp build/say.com /mnt/dos/
+	cp build/say.com /mnt/dos/AICOM/
+	cp ../text/*.txt /mnt/dos/AICOM/
 	sudo umount /mnt/dos
